@@ -97,7 +97,16 @@
     </div>
     </div>
 
-    
+    <footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <p class="text-center"><a href="index.php">Página Principal</a> | <a href="clientes.php">Clientes</a> | <a href="produtos.php">Produtos</a> | <a href="fale-conosco.php">Fale conosco</a></p>
+            </div>
+        </div>
+    </div>
+</footer>
+
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"
         integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG" crossorigin="anonymous">
     </script>
